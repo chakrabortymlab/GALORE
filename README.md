@@ -19,7 +19,7 @@ TBA
   
 <b>Where can I find everything</b>  
 <u>Fly strains: </u>
-All fly strains used in this project can be obtained from the [Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) for about $15 each. Images of strains showing the phenotypes of interest can be found under 'Strain Photos', however, for a classroom setting it can be useful and engaging to have the live strains to view under a light microscope to demonstrate the visible phenotypic effects of the mutations.
+Images of strains showing the phenotypes of interest can be found under 'Strain Photos', however, for a classroom setting it can be useful and engaging to have the live strains to view under a light microscope to demonstrate the visible phenotypic effects of the mutations. All fly strains used in this project can be obtained from the [Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) for about $15 each. 
 
 <u>Softwares: </u>
 If a High Performance Computing resource is available at your institution, many of these programs will likely be available on it. However, if working on your own machine, all softwares used in this project are open-source and available through GitHub or conda to download.
