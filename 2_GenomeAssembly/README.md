@@ -1,11 +1,14 @@
-## Genome Assembly
-Genome assembly is the process of stitching together overlapping sequencing reads to reconstruct the original genome. Now that we have the raw sequencing reads (FASTQs) downloaded from NCBI we can proceed to assemble them into a de novo genome assembly.
-These modules will show you how to prepare the reads, assemble the genome, and assess the quality. The optional module 2.3 can be done if resouces permit, but if not, the assembly generated can be used for Variant Calling modules.
+# Module 2: Genome Assembly
 
-- 2.1 - Filtering Raw Sequencing Reads
+This module introduces the process of generating and evaluating genome assemblies from raw sequencing data.  
 
-- 2.2 - De Novo Genome Assembly
 
-- 2.3 - Decontamination
+**2.1 Filtering Sequencing Reads**  
+   Learn how to clean raw sequencing reads before assembly.
 
-- 2.4 - Assessing Genome Assembly Quality
+**2.2 Genome Assembly**  
+   Assemble filtered reads into contigs and scaffolds.
+
+**2.3 Quality Checking Genome Assemblies**  
+   Assess assembly contiguity and learn about other metrics for assessing quality of assemblies
+

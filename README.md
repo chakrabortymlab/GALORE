@@ -1,5 +1,5 @@
 # GALORE
-<b>Introduction</b>  
+## Introduction
 One major limitation of teaching genomics in a classroom is that students do not get hands-on experience with the biological data to which their theoretical knowledge and computational exercises can be applied, limiting the learning outcomes. To address this issue, Dr. Mahul Chakraborty, with help from his Ph.D. student Alex Samano, launched a new undergraduate genomics course (BIOL 450) in the Department of Biology at Texas A&M University that integrates cutting-edge computational approaches and wet lab experiments to help students learn genomics through course-based undergraduate research experiences (CUREs). Here, we make the materials from the course available so that anyone in the world, whether in a classroom or at home, can use these resources to learn genomics. We named this resource Genomics and Long Reads Education (GALORE). Please email Mahul (mahul@tamu.edu) or Alex (asamano@tamu.edu) if you have questions about the resource or its use.
 
 <b>Description of GALORE</b>   
@@ -9,13 +9,11 @@ By completing these modules, you will:
 *   Learn basic Unix command line skills for navigating and managing genomic data
 *   Understand the structure and purpose of standard genomic file formats (FASTA, FASTQ, BAM, GFF, BED, VCF)
 *   Assemble genomes using long-read data
-*   Map sequencing reads to a reference genome and call variants
 *   Perform whole-genome alignments to identify structural variation
+*   Map sequencing reads to a reference genome and call variants
 
 This training is ideal for undergraduate or graduate students in biology, genetics, or bioinformatics who are new to genomics, or for instructors looking to integrate real-world data into their curriculum. No prior experience with command-line tools or genomics is required - just curiosity and a willingness to learn!
 
-<b>Requirements</b>
-TBA
   
 <b>Where can I find everything</b>  
 <u>Fly strains: </u>
@@ -35,11 +33,32 @@ If a High Performance Computing resource is available at your institution, many 
 *   Samtools [Website](https://www.htslib.org/) [Anaconda](https://anaconda.org/bioconda/samtools)
 
 
-Sequence data (reads)  
-TBA  
+<u> Sequence data (reads)  </u>
+Sequencing reads have been submitted to NCBI under BioProject Accession PRJNA1214913. See 1.4_Obtaining Data module for individual strain accessions.
 
-Assemblies  
-TBA
 
-<b>An example module for learning genomics using GALORE</b>  
-TBA  
+## Suggested Workflow 
+
+### **Module 1: Getting Started**
+- Learn basic Unix commands.  
+- Understand common genomic data formats (FASTA, FASTQ, BAM, VCF, GFF).  
+- Gain familiarity with bioinformatics software and package management.  
+- Practice obtaining genomic data from repositories.  
+- Introduction to working with High Performance Computing (HPC) clusters.  
+
+### **Module 2: Genome Assembly**
+- Filter raw sequencing reads.  
+- Assemble filtered reads into draft genomes.  
+- Identify and remove contaminants.  
+- Assess assembly quality and completeness.  
+- Prepare assemblies for downstream analysis.  
+
+### **Module 3: Variant Discovery**
+- Identify alleles and gene coordinates using BDSC and FlyBase.  
+- Perform whole-genome alignment against ISO1.  
+- Visualize alignments with dot plots to detect structural variants.  
+- Call SNPs and structural variants with read mapping approaches.  
+- Use IGV to visually validate variants (SNPs, duplications, deletions).  
+- Integrate evidence and interpret functional effects of identified variants.  
+
+---

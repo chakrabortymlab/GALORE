@@ -1,12 +1,20 @@
-## Getting Started
-The modules in this section provide the background necessary for this project and are designed for someone who is completley new to bioinformatics and UNIX commands. By following these steps you should become familiar with some basic UNIX commands, accessing and using bioinformatics programs, and understanding the data formats used in this project.
-### Modules
-- 1.1 - Basic UNIX - Introduction to command line.
+# Module 1: Getting Started
 
-- 1.2 - Bioinformatics Tools - Walk through for downloading and using open-source bioinformatics programs.
+This module introduces the essential background and skills you will need to perform genomic analysis.  
+It is designed for absolute beginners, with no prior bioinformatics experience required.
 
-- 1.3 - Genomic Data Formats - Explanation of common genomic data file formats and instructions for downloading genomic data for D. melanogaster reference genome.
+**1.1 Basic Unix Commands**  
+   Learn to navigate files and directories, and run commands on the command line.
 
-- 1.4 - Obtaining Data - Instructions for downloading sequencing data for this project.
+**1.2 Introduction to Genomic Data Formats**  
+   Explore the structure and purpose of formats like FASTA, FASTQ, and BAM. Download genomic files necessary for downstream analysis.
 
-- 1.5 - Using HPC (Optional) - Introduction to using a high-performance computing cluster, if available. If working on your own machine, skip this module.
+**1.3 Using Bioinformatics Software**  
+   Learn how to install, load, and run software commonly used in genomics.
+
+**1.4 Obtaining Genomic Data**  
+   Download genomic datasets from NCBI.
+
+**1.5 Optional: Introduction to High-Performance Computing Clusters**  
+   Get an overview of logging in, submitting jobs, and managing resources on HPCs (if one is available to you).
+

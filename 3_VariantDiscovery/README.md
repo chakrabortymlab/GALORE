@@ -1,15 +1,20 @@
-## Variant Discovery
+# Module 3: Variant Discovery
 
-Within a species, there can be a wide range of genetic variation, from single nucleotide polymorphisms (SNPs) to large-scale genomic rearrangements known as structural variants (SVs). SVs include duplications, deletions, insertions, and inversions of sequences larger than 100 base pairs.
+This module introduces methods to discover and interpret genetic variation in *Drosophila melanogaster*.  
 
-Thanks to the long history of *Drosophila* genetics research, many of the visible phenotypes observed in the 11 *Drosophila* strains examined in this project have already been linked to specific genes — and in some cases, to particular SNPs or SVs. However, the sequencing data generated here provides a unique opportunity to apply modern genomics tools to further investigate the molecular nature of these mutations. For phenotypes with uncharacterized genetic causes, this also opens the door to discovering novel candidate mutations.
+te results across approaches to build evidence for candidate variants.  
 
-These modules will guide you through two variant-calling approaches (read mapping and whole-genome alignment) to identify genetic variants and pinpoint mutations in genes associated with visible phenotypes.
+**3.1 Identifying Strain Alleles and Gene Coordinates**  
+   Learn to use BDSC and FlyBase to find gene coordinates for your strain.
 
-- 3.1 - Read Mapping
+**3.2 Whole-Genome Alignment**  
+   Align your strain assembly to the ISO1 reference and prepare for structural variant discovery.
 
-- 3.2 - Whole Genome Alignment
+**3.3 Visualizing Whole-Genome Alignment (Dot Plots)**  
+   Generate dot plots from alignment data and interpret patterns (inversions, duplications, deletions).
 
-- 3.3 - Repeat Annotation
+**3.4 Variant Calling with Read Mapping**  
+   Map sequencing reads, call SNPs and structural variants, and compare with alignment-based findings.
 
-- 3.4 - Candidate Mutation Discovery
+**3.5 Visualizing Variants in IGV**  
+   Load BAM and VCF files into IGV and visually validate SNPs, deletions, and duplications.
