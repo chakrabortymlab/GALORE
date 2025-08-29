@@ -13,11 +13,12 @@ By completing these modules, you will:
 *   Map sequencing reads to a reference genome and call variants
 
 <b>Who is this for?</b> 
+
 This training is ideal for undergraduate or graduate students in biology, genetics, or bioinformatics who are new to genomics, or for instructors looking to integrate real-world data into their curriculum. No prior experience with command-line tools or genomics is required - just curiosity and a willingness to learn!
 
   
 <b>Where can I find everything</b>  
-<u>Fly strains: </u>
+<u>Fly strains:</u>
 Images of strains showing the phenotypes of interest can be found under 'Strain Photos', however, for a classroom setting it can be useful and engaging to have the live strains to view under a light microscope to demonstrate the visible phenotypic effects of the mutations. All fly strains used in this project can be obtained from the [Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) for about $15 each. 
 
 <u>Softwares: </u>
