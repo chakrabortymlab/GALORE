@@ -12,7 +12,7 @@ By completing these modules, you will:
 *   Perform whole-genome alignments to identify structural variation
 *   Map sequencing reads to a reference genome and call variants
 
-<b>Who is this for?
+<b>Who is this for?</b>
 This training is ideal for undergraduate or graduate students in biology, genetics, or bioinformatics who are new to genomics, or for instructors looking to integrate real-world data into their curriculum. No prior experience with command-line tools or genomics is required - just curiosity and a willingness to learn!
 
   
