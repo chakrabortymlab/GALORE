@@ -2,7 +2,6 @@
 
 This module introduces the process of generating and evaluating genome assemblies from raw sequencing data.  
 
-
 **2.1 Filtering Sequencing Reads**  
    Learn how to clean raw sequencing reads before assembly.
 
