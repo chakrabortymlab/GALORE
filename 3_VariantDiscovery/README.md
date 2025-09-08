@@ -11,8 +11,11 @@ This module introduces methods to discover and interpret genetic variation in *D
 **3.3 Variant Calling with Read Mapping**  
    Map sequencing reads, call SNPs and structural variants, and compare with alignment-based findings.
 
-**3.4 Visualizing Variants in IGV**  
-   Load BAM and VCF files into IGV and visually validate SNPs, deletions, and duplications.
+**3.4 Intersecting Variants with Genes**  
+   Filter variant calls to isolate mutations that intersect genes linked to visible phenotypes.
 
-**3.5 Interpreting Variants**
+**3.5 Visualizing Variants in IGV**  
+   Load BAM files into IGV and visually validate SNPs and SVs.
+
+**3.6 Interpreting Variants**
    Integrate results across approaches to build evidence for candidate variants.  

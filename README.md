@@ -21,17 +21,7 @@ This training is ideal for undergraduate or graduate students in biology, geneti
 Images of strains showing the phenotypes of interest can be found under 'Strain Photos', however, for a classroom setting it can be useful and engaging to have the live strains to view under a light microscope to demonstrate the visible phenotypic effects of the mutations. All fly strains used in this project can be obtained from the [Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) for about $15 each. 
 
 <u>Softwares: </u>
-If a High-Performance Computing resource is available at your institution, many of these programs will likely be available on it. However, if working on your own machine, all software used in this project is open-source and available for download through GitHub or conda.
-
-*   SRA toolkit [GitHub](https://github.com/ncbi/sra-tools) [conda](https://anaconda.org/bioconda/sra-tools)
-*   Chopper [GitHub](https://github.com/wdecoster/chopper) [conda](https://anaconda.org/bioconda/chopper)
-*   Hifiasm [GitHub](https://github.com/chhylp123/hifiasm) [conda](https://anaconda.org/bioconda/hifiasm)
-*   Minimap [GitHub](https://github.com/lh3/minimap2) [conda](https://anaconda.org/bioconda/minimap2)
-*   Repeatmasker [Website](https://www.repeatmasker.org/RepeatMasker/) [conda](https://anaconda.org/bioconda/repeatmasker)
-*   Mscaffolder [GitHub](https://github.com/mahulchak/mscaffolder)
-*   Mummer [GitHub](https://github.com/mummer4/mummer) [conda](https://anaconda.org/bioconda/mummer4)
-*   Delly [GitHub](https://github.com/dellytools/delly) [conda](https://anaconda.org/bioconda/delly)
-*   Samtools [Website](https://www.htslib.org/) [conda](https://anaconda.org/bioconda/samtools)
+If a High-Performance Computing resource is available at your institution, many of these programs will likely be available on it. However, if working on your own machine, all software used in this project is open-source and available for download through GitHub or conda (See Module 1.3 Bioinformatics Software).
 
 
 <u> Sequence data (reads)  </u>
@@ -50,7 +40,6 @@ Sequencing reads have been submitted to NCBI under BioProject Accession PRJNA121
 ### **Module 2: Genome Assembly**
 - Filter raw sequencing reads.  
 - Assemble filtered reads into draft genomes.  
-- Identify and remove contaminants.  
 - Assess assembly quality and completeness.  
 - Prepare assemblies for downstream analysis.  
 
