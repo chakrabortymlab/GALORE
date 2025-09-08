@@ -7,7 +7,7 @@ It is designed for absolute beginners, with no prior bioinformatics experience r
    Learn to navigate files and directories, and run commands on the command line.
 
 **1.2 Introduction to Genomic Data Formats**  
-   Explore the structure and purpose of formats like FASTA, FASTQ, and BAM. Download genomic files necessary for downstream analysis.
+   Explore the structure and purpose of formats like FASTA, FASTQ, and GTF. Download genomic files necessary for downstream analysis.
 
 **1.3 Using Bioinformatics Software**  
    Learn how to install, load, and run software commonly used in genomics.
